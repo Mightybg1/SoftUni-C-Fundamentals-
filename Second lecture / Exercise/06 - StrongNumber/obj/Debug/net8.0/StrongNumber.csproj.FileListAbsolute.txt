@@ -1,0 +1,14 @@
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\bin\Debug\net8.0\StrongNumber.exe
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\bin\Debug\net8.0\StrongNumber.deps.json
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\bin\Debug\net8.0\StrongNumber.runtimeconfig.json
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\bin\Debug\net8.0\StrongNumber.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\bin\Debug\net8.0\StrongNumber.pdb
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\obj\Debug\net8.0\StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\obj\Debug\net8.0\StrongNumber.AssemblyInfoInputs.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\obj\Debug\net8.0\StrongNumber.AssemblyInfo.cs
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\obj\Debug\net8.0\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\obj\Debug\net8.0\StrongNumber.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\obj\Debug\net8.0\refint\StrongNumber.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\obj\Debug\net8.0\StrongNumber.pdb
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\obj\Debug\net8.0\StrongNumber.genruntimeconfig.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\StrongNumber\obj\Debug\net8.0\ref\StrongNumber.dll
