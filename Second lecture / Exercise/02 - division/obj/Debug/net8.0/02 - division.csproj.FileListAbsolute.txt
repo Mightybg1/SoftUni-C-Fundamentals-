@@ -1,0 +1,14 @@
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\bin\Debug\net8.0\02 - division.exe
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\bin\Debug\net8.0\02 - division.deps.json
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\bin\Debug\net8.0\02 - division.runtimeconfig.json
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\bin\Debug\net8.0\02 - division.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\bin\Debug\net8.0\02 - division.pdb
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\obj\Debug\net8.0\02 - division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\obj\Debug\net8.0\02 - division.AssemblyInfoInputs.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\obj\Debug\net8.0\02 - division.AssemblyInfo.cs
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\obj\Debug\net8.0\02 - division.csproj.CoreCompileInputs.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\obj\Debug\net8.0\02 - division.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\obj\Debug\net8.0\refint\02 - division.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\obj\Debug\net8.0\02 - division.pdb
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\obj\Debug\net8.0\02 - division.genruntimeconfig.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\02 - division\obj\Debug\net8.0\ref\02 - division.dll

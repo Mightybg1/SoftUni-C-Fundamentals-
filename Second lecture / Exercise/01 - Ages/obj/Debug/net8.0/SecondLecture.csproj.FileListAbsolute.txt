@@ -1,0 +1,14 @@
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\obj\Debug\net8.0\SecondLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\obj\Debug\net8.0\SecondLecture.AssemblyInfoInputs.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\obj\Debug\net8.0\SecondLecture.AssemblyInfo.cs
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\obj\Debug\net8.0\SecondLecture.csproj.CoreCompileInputs.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\bin\Debug\net8.0\SecondLecture.exe
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\bin\Debug\net8.0\SecondLecture.deps.json
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\bin\Debug\net8.0\SecondLecture.runtimeconfig.json
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\bin\Debug\net8.0\SecondLecture.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\bin\Debug\net8.0\SecondLecture.pdb
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\obj\Debug\net8.0\SecondLecture.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\obj\Debug\net8.0\refint\SecondLecture.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\obj\Debug\net8.0\SecondLecture.pdb
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\obj\Debug\net8.0\SecondLecture.genruntimeconfig.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLecture\SecondLecture\obj\Debug\net8.0\ref\SecondLecture.dll
