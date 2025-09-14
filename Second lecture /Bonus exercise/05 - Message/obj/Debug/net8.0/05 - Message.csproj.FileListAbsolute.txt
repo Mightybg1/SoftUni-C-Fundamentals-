@@ -1,0 +1,14 @@
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\bin\Debug\net8.0\05 - Message.exe
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\bin\Debug\net8.0\05 - Message.deps.json
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\bin\Debug\net8.0\05 - Message.runtimeconfig.json
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\bin\Debug\net8.0\05 - Message.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\bin\Debug\net8.0\05 - Message.pdb
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\obj\Debug\net8.0\05 - Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\obj\Debug\net8.0\05 - Message.AssemblyInfoInputs.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\obj\Debug\net8.0\05 - Message.AssemblyInfo.cs
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\obj\Debug\net8.0\05 - Message.csproj.CoreCompileInputs.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\obj\Debug\net8.0\05 - Message.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\obj\Debug\net8.0\refint\05 - Message.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\obj\Debug\net8.0\05 - Message.pdb
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\obj\Debug\net8.0\05 - Message.genruntimeconfig.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\05 - Message\obj\Debug\net8.0\ref\05 - Message.dll
