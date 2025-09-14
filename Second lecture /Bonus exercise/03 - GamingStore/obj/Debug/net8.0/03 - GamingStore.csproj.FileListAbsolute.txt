@@ -1,0 +1,14 @@
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\bin\Debug\net8.0\03 - GamingStore.exe
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\bin\Debug\net8.0\03 - GamingStore.deps.json
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\bin\Debug\net8.0\03 - GamingStore.runtimeconfig.json
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\bin\Debug\net8.0\03 - GamingStore.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\bin\Debug\net8.0\03 - GamingStore.pdb
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\obj\Debug\net8.0\03 - GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\obj\Debug\net8.0\03 - GamingStore.AssemblyInfoInputs.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\obj\Debug\net8.0\03 - GamingStore.AssemblyInfo.cs
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\obj\Debug\net8.0\03 - GamingStore.csproj.CoreCompileInputs.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\obj\Debug\net8.0\03 - GamingStore.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\obj\Debug\net8.0\refint\03 - GamingStore.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\obj\Debug\net8.0\03 - GamingStore.pdb
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\obj\Debug\net8.0\03 - GamingStore.genruntimeconfig.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\03 - GamingStore\obj\Debug\net8.0\ref\03 - GamingStore.dll
