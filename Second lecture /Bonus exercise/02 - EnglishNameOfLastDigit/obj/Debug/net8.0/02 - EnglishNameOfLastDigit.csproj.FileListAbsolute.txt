@@ -1,0 +1,14 @@
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\bin\Debug\net8.0\02 - EnglishNameOfLastDigit.exe
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\bin\Debug\net8.0\02 - EnglishNameOfLastDigit.deps.json
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\bin\Debug\net8.0\02 - EnglishNameOfLastDigit.runtimeconfig.json
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\bin\Debug\net8.0\02 - EnglishNameOfLastDigit.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\bin\Debug\net8.0\02 - EnglishNameOfLastDigit.pdb
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\obj\Debug\net8.0\02 - EnglishNameOfLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\obj\Debug\net8.0\02 - EnglishNameOfLastDigit.AssemblyInfoInputs.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\obj\Debug\net8.0\02 - EnglishNameOfLastDigit.AssemblyInfo.cs
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\obj\Debug\net8.0\02 - EnglishNameOfLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\obj\Debug\net8.0\02 - EnglishNameOfLastDigit.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\obj\Debug\net8.0\refint\02 - EnglishNameOfLastDigit.dll
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\obj\Debug\net8.0\02 - EnglishNameOfLastDigit.pdb
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\obj\Debug\net8.0\02 - EnglishNameOfLastDigit.genruntimeconfig.cache
+C:\Users\zivko\Desktop\softuni fundamentals\SecondLectureBonus\SortNumbers\02 - EnglishNameOfLastDigit\obj\Debug\net8.0\ref\02 - EnglishNameOfLastDigit.dll
